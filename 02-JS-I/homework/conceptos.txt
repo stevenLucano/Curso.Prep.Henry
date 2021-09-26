@@ -1,0 +1,16 @@
+Variables: Son cajitas que se les puede colocar el nombre que uno quiera, y dentro de ellas se pueden guardar numeros,
+letras y muchas cosas más.
+
+Strings: Son cualquier tipo de dato que esté entre comillas (""), se puede escribir lo que sea dentro de ellas. 
+
+Funciones: Una función puede tener o no argumentos, que se refiere a lo que se les entrega a las funciones, una función 
+que no tiene argumentos puede verse como un timbre, tú solo lo tocas y el devuelve algo, en este caso el sonido del 
+timbre. Y las funciones con argumentos pueden verse como un horno, el cual le entregas algo, como por ejemplo  una pizza
+cruda(este seria el argumento), y luego te devuelve la pizza horneada.
+
+Declaraciones if: Su traducción literal al español (si), da una idea de lo que hace, basicamente "si" algo es correcto,
+verdadero o true, el hará lo que contenga, de lo contrario lo ignorará.
+
+Valores booleanos (true, false): Como todo en matematicas, el resultado puede estar bien o no, nunca va a estar medio 
+bien, por lo cual los valores booleanos son de mucha ayuda para estar cosas, True para esta correcto, False para esta 
+incorrecto. 
