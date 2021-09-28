@@ -1,0 +1,7 @@
+for: Se trata de un bucle que nos permite repetir varias cosas, con el fin de poder encontrar algo, o simplemente para 
+repetir una accion n-veces.
+
+&&, ||, ! : Estos son operadores lógicos, el primero es muy util para cuando queremos saber si n-parametros son 
+verdaderos, de lo contrario, con uno que se falso, devolverá falso. El segundo es para lo contrario, si queremos si
+todas las declaraciones son incorrectas utilizamos "||", de lo contrario, con que un dato sea true, el dara como 
+respuesta true. Y por ultimo, el operador "!", te cambia el sentido de cualquier declaracion, como hacer un giro de 180°
