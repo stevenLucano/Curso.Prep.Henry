@@ -1,0 +1,2 @@
+Arrays: Los arrays pueden verse como una cajita que contiene varias cosas de manera ordenada, hablando en idioma de
+programador, puede guardar distintos tipos de datos, numeros, texto, booleanos, entre otras cosas.
